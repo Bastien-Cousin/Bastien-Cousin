@@ -45,14 +45,14 @@ Je m'appelle Bastien, je suis étudiant en 3ᵉ année de BUT Informatique et je
 
 ## 🚀 Projets en cours
 
-- 🎮 Un jeu développé avec **Unity et C#**
-- 🖥️ Un portfolio interactif réalisé avec **React, TypeScript et Three.js**
-- 🌐 Différents projets web personnels et universitaires
+- 💳​ Un site e-commerce pour un client avec **Next.js et TypeScript**
+- 🌐 Une application d'audit d'accessibilité Web assisté par IA avec **Python**
+- 🖥️ Un portfolio complet réalisé avec **React et TypeScript**
+- 🎮 Participation à un jeu vidéo développé avec **Unity et C#**
+- 🌐 Et d'autres projets personnels et universitaires...
 
 ---
 
-## 👨💻 À propos de moi
+## 👨 À propos de moi
 
-Je suis actuellement étudiant en informatique et j'améliore continuellement mes compétences à travers mes projets personnels et universitaires.
-
-J'apprécie particulièrement la création d'applications interactives et le fait de transformer des concepts en projets concrets.
+En tant qu'étudiant en BUT Informatique, je suis actuellement à la recherche d'un **stage de 14 à 16 semaines entre le 22 février et le 25 juin** afin de valider ma 3ème année d'études. Si vous êtes intéressé et que mes compétences et expériences correspondent au profil que vous recherchez, n'hésitez pas à me contacter !
