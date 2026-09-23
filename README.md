@@ -49,7 +49,7 @@ Je m'appelle Bastien, je suis étudiant en 3ᵉ année de BUT Informatique et je
 - 🌐 Une application d'audit d'accessibilité Web assisté par IA avec **Python**
 - 🖥️ Un portfolio complet réalisé avec **React et TypeScript**
 - 🎮 Participation à un jeu vidéo développé avec **Unity et C#**
-- 👀 Et d'autres projets personnels et universitaires...
+- 👀 Et d'autres projets personnels et universitaires, en cours et à venir...
 
 ---
 
